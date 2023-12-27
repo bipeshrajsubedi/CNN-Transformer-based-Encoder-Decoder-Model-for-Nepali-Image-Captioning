@@ -27,3 +27,7 @@ publisher = "Association for Computational Linguistics",
 url = "https://aclanthology.org/2022.icon-main.12",
 pages = "86--91",
 }
+
+
+ResearchGate Profile: https://www.researchgate.net/profile/Bipesh-Subedi
+Google Scholar: https://scholar.google.com/citations?user=k4fX924AAAAJ&hl=en
