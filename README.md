@@ -1,5 +1,4 @@
-# CNN-Transformer-based-Encoder-Decoder-Model-for-Nepali-Image-Captioning
-Image Captioning using CNN (for image features extraction) and Transformer (for language modelling) in Nepali Language
+# CNN-Transformer-based-Encoder-Decoder-Model-for-Nepali-Image-CaptioningMany image captioning tasks have been carried out in recent years, the majority of the work being for the English language. A few research works have also been carried out for Hindi and Bengali languages in the domain. Unfortunately, not much research emphasis seems to be given to the Nepali language in this direction. Furthermore, the datasets are also not publicly available in the Nepali language. The aim of this research is to prepare a dataset with Nepali captions and develop a deep learning model based on the Convolutional Neural Network (CNN) and Transformer combined model to automatically generate image captions in the Nepali language.
 
 -> This repo contains two different codes:
   1. Data Translation
