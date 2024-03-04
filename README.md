@@ -5,9 +5,8 @@ Many image captioning tasks have been carried out in recent years, the majority 
   1. Data Translation
   2. CNN-Transformer Implementation
 
-Models:
-->CNN: ResNet-101, EfficientNetB0
-->Transformer
+Models: 
+->CNN: ResNet-101, EfficientNetB0 + Transformer
 - Model A (ResNet-101 + Transformer)
 - Model B (EfficientNetB0 + Transformer)
 
